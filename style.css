@@ -1,0 +1,81 @@
+
+.container-fluid {
+    margin-left: 100px;
+}
+/*LOGO*/
+.container-fluid img {
+    height: 100px; 
+    width: auto; 
+    margin-right: 230px;
+}
+
+  /* JUMBOTRON */
+  .hero-section {
+    background-image: url(istockphoto-1072268104-2048x2048.jpg);
+    background-color: gray;
+    background-size: cover;
+    background-position: center;
+    height: 80vh;
+    color: black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+/* H1 */
+.container-hero-content h1 {
+    margin-bottom: 60px;
+}
+
+/* PAYOFF */
+.payoff {
+    font-size: 1.2rem;
+    font-style: italic;
+    
+    color: #211c1c;
+margin-bottom: 5px;
+}
+
+.card-img-top {
+    height: 200px;
+    object-fit: cover; 
+    width: 100%; 
+    border-radius: 25px;
+}
+
+h5 {
+    text-align: center;
+    text-decoration: solid;
+}
+
+.card-img-top1 {
+    height: 400px;
+    object-fit: cover; 
+    width: 100%; 
+}
+
+.card {
+    border-radius: 25px;
+    overflow: hidden;
+}
+
+.card-text  {
+    text-align: center;
+}
+
+
+.testimonial-section {
+    background-color: #f9f9f9;
+}
+
+.testimonial-card {
+    background-color: white;
+    border-radius: 10px;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+.testimonial-text {
+    font-style: italic;
+    color: #555;
+}
